@@ -1,0 +1,1 @@
+//Hoisting process to move the variable at the top of the program
